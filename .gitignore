@@ -1,4 +1,4 @@
 # ignore executable binary
-q100receiver
+GioTest
 # ignore tests
 *.test
